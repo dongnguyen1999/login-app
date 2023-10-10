@@ -14,3 +14,8 @@ Run image
 ```
 docker compose up
 ```
+
+Pages:
+- User list: localhost:8080/users
+- Login: localhost:8080/login
+- Login: localhost:8080/register
